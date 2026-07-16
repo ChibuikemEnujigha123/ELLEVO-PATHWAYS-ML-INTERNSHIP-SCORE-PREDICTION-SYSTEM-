@@ -94,7 +94,7 @@ Identified and removed duplicate rows based on numerical columns
 Retained 6,378 unique records for analysis
 
 
-3. Outlier Detection & Removal
+3.Outlier Detection & Removal
 Used Interquartile Range (IQR) method to identify outliers:
 
 Hours_Studied: 40 outliers removed
