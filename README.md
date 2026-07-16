@@ -4,6 +4,7 @@
 
 
 Section A: Project Overview
+
 This is a Machine Learning Project focused on how exam scores can be predicted by paying attention to academic factors,personal factors,family factors and socio-economic factor amongst others.Steps like Data Cleaning,Summary Stattistics,Feature Selection, encoidng and model building are used for the succesful creation of this core prediction system
 
 
@@ -11,6 +12,7 @@ This is a Machine Learning Project focused on how exam scores can be predicted b
 
 
 Section B: Dataset Description
+
 The dataset StudentPerformanceFactors.csv contains student records with the following features
 
 The dataset contains 6,607 student records with 20 features spanning academic performance, family background, and personal characteristics.
