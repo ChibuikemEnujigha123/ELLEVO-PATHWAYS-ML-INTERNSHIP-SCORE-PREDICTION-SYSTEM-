@@ -178,11 +178,11 @@ Section G: Conclusion
 
 The Student Score Prediction System successfully demonstrates the application of regression models to predict academic performance based on various student, family, and environmental factors. Key findings include:
 
-Previous Performance is the strongestr predictor of future exam scores 
+Previous Performance is the strongest predictor of future exam scores 
 
-Study hours and attendance significantly have an impact on exam scores
+Study hours and attendance significantly has an impact on exam scores
 
-Motivation score from resylts have a signifcant positive correlation with exam scores 
+Motivation score from results has a signifcant positive correlation with exam scores 
 
 Linear Regression had the best performance among the other models which are likely complex indicating a largely linear relationship between the features and the model .
 
